@@ -2,6 +2,12 @@
 
 A browser-based human detection and counting application built with React, TypeScript, Vite, and MediaPipe Tasks Vision. It detects and counts people in images, videos, and live camera streams, and lets users review detection statistics and previous results.
 
+## Live Demo
+
+Add your deployed Vercel link here:
+
+- https://your-project-name.vercel.app
+
 ## Features
 
 - Dashboard for activity and key statistics
