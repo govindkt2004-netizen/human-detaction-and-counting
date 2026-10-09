@@ -1,0 +1,8 @@
+{
+  "name": "Human Detection & Counting",
+  "description": "Real-Time Computer Vision Analytics for person detection, tracking, and counting powered by MediaPipe Tasks Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
